@@ -1,0 +1,63 @@
+
+
+.titulo h1 {
+    font-size : 36pt;
+    font-family : arial,helvetica;
+    font-weight : normal;
+    color: rgb(46, 16, 16);
+    text-align: center;
+
+}
+.titulo p {
+    font-size : 14pt;
+    font-family : arial,helvetica;
+    font-weight : normal;
+    color: black;
+    }
+.titulo h2 {
+    font-size : 16pt;
+    font-family : verdana,arial;
+    text-decoration : underline;
+    text-align : center;
+    background-color : Teal;
+    }
+.titulo h3 {
+        font-size : 11pt;
+        font-family : verdana,arial;
+        text-decoration : underline;
+        text-align : left;
+        background-color : rgb(178, 243, 243);
+        }
+    .formulario_1 h1 {
+        font-size : 20pt;
+        font-family : arial,helvetica;
+        font-weight : normal;
+        color: rgb(110, 5, 5);
+        }
+    .formulario_1 {
+        font-size : 14pt;
+        font-family : arial,helvetica;
+        font-weight : normal;
+        color: rgb(36, 3, 3);
+        }
+    .servicios {
+        font-size : 14pt;
+        font-family : arial,helvetica;
+        font-weight : normal;
+        color: rgb(15, 82, 30);
+        text-align: left;
+            }
+    .avanzado h1 {
+        font-size : 14pt;
+        font-family : arial,helvetica;
+        font-weight : normal;
+        color: rgb(51, 136, 71);
+        text-align: left;
+                }
+    .avanzado label {
+        font-size : 14pt;
+        font-family : arial,helvetica;
+        font-weight : normal;
+        color: rgb(23, 89, 105);
+        text-align: left;
+                }
